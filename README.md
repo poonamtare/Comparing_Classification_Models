@@ -112,11 +112,13 @@ Given the class imbalance in the dataset, particular attention is given to recal
 
 ## Repository Structure
 
+## Repository Structure
+
+```text
 ├── data/
 │   └── bank-additional-full.csv
-├── notebooks/
-│   └── comparing_classifiers.ipynb
-├── README.md
+├── Comparing_classification_models.ipynb
+└── README.md
 ---
 
 ## References
